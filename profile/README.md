@@ -1,4 +1,4 @@
-![YugabyteDB_GitHub_README_Banner_01](https://github.com/yugabyte/.github/assets/1537233/aba574cd-e463-4d6e-9803-a13883778544)
+[![YugabyteDB_GitHub_README_Banner_01](https://github.com/yugabyte/.github/assets/1537233/aba574cd-e463-4d6e-9803-a13883778544)](https://www.yugabyte.com/developer/)
 
 <div align="center">
   <a href="https://www.yugabyte.com">Get Started</a> • 
