@@ -34,7 +34,7 @@ There are many ways to learn YugabyteDB. Pick the resources and formats that ali
 
 ## How to Stay in Touch?
 
-Join **9000+** YugabyteDB community members (and counting!) [on Slack](https://communityinviter.com/apps/yugabyte-db/register) to ask questions, seek help, and advance your knowledge of YugabyteDB.
+Join **10000+** YugabyteDB community members (and counting!) [on Slack](https://communityinviter.com/apps/yugabyte-db/register) to ask questions, seek help, and advance your knowledge of YugabyteDB.
 
 Also, make sure to attend our [YugabyteDB Friday Tech Talks](https://www.yugabyte.com/yftt/) and [Community Open Hours](https://www.yugabyte.com/developer/) to learn about the latest developments and see how things work in practice!
 
